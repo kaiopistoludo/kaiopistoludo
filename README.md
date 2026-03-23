@@ -18,4 +18,4 @@ Ele permite que acesse links dos meus projetos de forma simples e eficiente.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/kaiopistoludo/links.git
